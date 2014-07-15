@@ -1,0 +1,16 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Enable aligner': 'aligner:toggle'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'aligner'
+      'submenu': [
+        { 'label': 'Toggle', 'command': 'aligner:toggle' }
+      ]
+    ]
+  }
+]

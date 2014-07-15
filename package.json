@@ -1,0 +1,14 @@
+{
+  "name": "aligner",
+  "main": "./lib/aligner",
+  "version": "0.0.0",
+  "description": "GitHub Atom plugin for automatic code alignment.",
+  "activationEvents": ["aligner:toggle", "aligner:align"],
+  "repository": "https://github.com/generall/aligner_atom.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
