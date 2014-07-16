@@ -142,11 +142,11 @@ sudo apt-get install ruby
 To install the plugin, clone it to your Atom Package directory with following command:
 
 ```
-cd ~/github/
+cd ~/.atom/packages
 git clone https://github.com/generall/aligner_atom.git
 ```
 
-Default hotkey for alignment is: `"ctrl+k a"`.
+Default hotkey for alignment is: `"ctrl+k a"` or `cmd+k a` for Mac.
 
 ##Prospection
 

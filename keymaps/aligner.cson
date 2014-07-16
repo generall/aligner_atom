@@ -10,3 +10,4 @@
 '.workspace':
   'ctrl-k ctrl-a': 'aligner:align'
   'ctrl-k a': 'aligner:align'
+  'cmd-k a' : 'aligner:align'
